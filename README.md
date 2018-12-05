@@ -65,4 +65,4 @@ if (direction == "right") {
 }
 ```
 
-Inspired by [Competa](http://www.competa.com/blog/how-to-build-a-snake-game-using-javascript-and-html5-canvas/)
+Inspired from [Competa](http://www.competa.com/blog/how-to-build-a-snake-game-using-javascript-and-html5-canvas/)
