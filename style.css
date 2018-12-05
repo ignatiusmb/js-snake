@@ -1,0 +1,51 @@
+.game {
+  position: absolute;
+  width: 40rem;
+  height: 30rem;
+  left: 50%;
+  top: 55%;
+  margin-left: -20rem;
+  margin-top: -20rem;
+  background-image: url('img/snake-background.png');
+  background-size: 95%;
+  background-repeat: no-repeat;
+  background-color: white;
+  background-position: center center;
+}
+
+.button {
+  text-align: center;
+  margin-top: 0.5rem;
+}
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  height: 30px;
+  width: 20rem;
+  font-size: 12pt;
+  font-family: 'Oleo Script', Helvetica, sans-serif;
+  border: 2px solid darkgreen;
+  border-radius: 5px;
+  box-shadow: 0 6px #999;
+}
+
+button:hover {
+  background-color: #3e8e41;
+}
+
+button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 3px #666;
+  transform: translateY(2px);
+}
+
+button:disabled {
+  border: none;
+  box-shadow: none;
+  background-color: grey;
+}
+
+canvas {
+  border: 2rem;
+}
