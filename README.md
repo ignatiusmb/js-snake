@@ -1,10 +1,8 @@
 # JS Snake Game
+A simple snake game created using HTML5 and JavaScript.
 
-**A simple snake game created using HTML5 and JavaScript.**
-
+## Getting Started
 Our snake is a chain of elements (squares) and the movement is controlled by arrow keys which directs the head of the snake.
-
-## Instructions:
 
 1. Create the canvas element in our html.
 2. Draw the body of the snake and the food using canvases.
@@ -13,7 +11,7 @@ Our snake is a chain of elements (squares) and the movement is controlled by arr
 5. Create the main function which has to run everything we need to play.
 6. Use the _keyCode_ event to move the snake using the keyboard.
 
-## The Snake
+### The Snake
 
 1. Create the form of the snake.
 2. Create the structure of the snake using the created form.
@@ -66,3 +64,16 @@ if (direction == "right") {
 ```
 
 Inspired from [Competa](http://www.competa.com/blog/how-to-build-a-snake-game-using-javascript-and-html5-canvas/)
+
+## License
+
+This project is licensed under the MIT license - see the [LICENSE](LICENSE) file for details
+
+---
+<p align="center">
+  <a href="www.imbagus.com">imbagus.com</a>
+  &middot;
+  <a href="https://github.com/ignatiusmb">GitHub</a>
+  &middot;
+  <a href="https://gitlab.com/ignatiusmb">GitLab</a>
+</p>
