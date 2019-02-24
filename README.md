@@ -71,6 +71,8 @@ This project is licensed under the MIT license - see the [LICENSE](LICENSE) file
 
 ---
 <p align="center">
+  <a href="https://ignatiusmb.github.io">ignatiusmb.io</a>
+  &middot;
   <a href="www.imbagus.com">imbagus.com</a>
   &middot;
   <a href="https://github.com/ignatiusmb">GitHub</a>
